@@ -2,3 +2,4 @@ TF-IDF;Precision: 1.0 / Recall: 0.827 / Accuracy: 0.978
 word2vec;Precision: 0.97 / Recall: 0.988 / Accuracy: 0.963
 doc2vec;Precision: 0.897 / Recall: 0.374 / Accuracy: 0.917
 RNN;  precision_m: 0.9857 / recall_m: 0.9857 /accuracy: 1.0000 
+//
